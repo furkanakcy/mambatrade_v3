@@ -1,0 +1,13 @@
+streamlit
+ccxt
+pandas
+pandas-ta
+python-dotenv
+plotly
+altair
+numpy<2.0
+google-generativeai
+vectorbt
+quantstats
+backtesting
+cryptography
